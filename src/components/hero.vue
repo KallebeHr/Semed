@@ -2,7 +2,7 @@
   <section class="hero-main">
     <div class="p-container hero-grid">
       <div>
-        <p class="hero-eyebrow">EDUCAÇÃO QssUE CONECTA</p>
+        <p class="hero-eyebrow">Janyce tem verme na Barriga</p>
         <h1>
           {{
             configuracao.heroTitulo ||
